@@ -1,0 +1,19 @@
+station_id,station_code,connector_type,power_kw,zone,commissioned_year,num_bays,tariff_per_kwh
+VG-ST-001,VG-01,CCS2,120,Madhapur,2018,7,26
+VG-ST-002,VG-02,CHAdeMO,180,Gachibowli,2020,5,26
+VG-ST-003,VG-03,CCS2,150,Kukatpally,2022,5,26
+VG-ST-004,VG-04,GB/T,150,Secunderabad,2019,4,26
+VG-ST-005,VG-05,CCS2,150,Uppal,2021,3,26
+VG-ST-006,VG-06,CHAdeMO,180,Madhapur,2023,8,26
+VG-ST-007,VG-07,Type2 AC,30,Gachibowli,2018,4,12
+VG-ST-008,VG-08,CCS2,60,Kukatpally,2020,3,22
+VG-ST-009,VG-09,Type2 AC,30,Secunderabad,2022,2,12
+VG-ST-010,VG-10,Bharat DC-001,30,Uppal,2019,4,12
+VG-ST-011,VG-11,Type2 AC,60,Madhapur,2021,3,22
+VG-ST-012,VG-12,CCS2,60,Gachibowli,2023,2,22
+VG-ST-013,VG-13,Bharat AC-001,30,Kukatpally,2018,2,12
+VG-ST-014,VG-14,Type2 AC,30,Secunderabad,2020,1,12
+VG-ST-015,VG-15,Bharat AC-001,30,Uppal,2022,1,12
+VG-ST-016,VG-16,Type2 AC,30,Madhapur,2019,3,12
+VG-ST-017,VG-17,Bharat AC-001,30,Gachibowli,2021,4,12
+VG-ST-018,VG-18,Type2 AC,15,Kukatpally,2023,1,12

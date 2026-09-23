@@ -1,0 +1,17 @@
+# scikit-learn Masterclass (VoltGrid) - live session
+# Pinned to the exact versions every output in the course was produced with.
+# If your numbers differ from the PDF, check these first.
+
+scikit-learn
+pandas
+numpy
+scipy
+matplotlib
+joblib
+
+# notebooks
+jupyterlab
+ipykernel
+
+# interactive visualiser -> streamlit run apps/visualizer.py
+streamlit
